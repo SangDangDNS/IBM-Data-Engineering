@@ -76,3 +76,11 @@ Now that we have defined all of the code necessary to run the ETL process on the
 
 ![Alt text](image-11.png)
 
+### Summary
+
+In this part, we learned:
+
+- How to write a simple Extract function.  
+- How to write a simple Transform function.   
+- How to write a simple Load function.   
+- How to write a simple Logging function.
